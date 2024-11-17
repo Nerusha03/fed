@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.afaslive.nl/ 
+  https://bleach-anime.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   homepagina  
-  <img src="readme-images/homePagina.png" width="375px" alt="pagina waarop de ">
+  <img src="readme-images/bleachCharacters.png" width="375px" alt="home pagina van de anime 'bleach' ">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   agenda
-  <img src="readme-images/agendaPagina.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/bleachHomepagina.png" width="375px" alt="character pagina waarin characters van de anime bleach zijn weergeven">
  
 </details>
 
@@ -57,6 +57,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Screenreader
+   bij het gebruiken van een screenreader, vond ik het moeilijk om de site te gaan gebruiken. Het viel me op dat de screenreader veel elementen niet leest, of het zou alleen aangeven dat het een link is maar niet waartoe het leidt. Verder had de site ook popups bijvoorbeeld om de characters te weergeven, de screenreader kon de content die op de popup was niet lezen maar wel als ik erop klikte. 
+  contrast
+   heel veel elementen van de site bestaat alleen maar uit afbeeldingen dus het was niet mogelijk om de contrast te meten, van dit kon simpelweg niet via inspect bekeken worden. Daarna heb ik de contrast analyzer tool van TPGi daaruit blijkt dat een een AA scre heeff
+  <img src="readme-images/bleachContrast.png" width="375px" alt="contrast score van de site">
+
 
 </details>
 
@@ -68,7 +74,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/bleachHomepagina_breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
