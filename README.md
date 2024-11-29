@@ -60,7 +60,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Screenreader
    bij het gebruiken van een screenreader, vond ik het moeilijk om de site te gaan gebruiken. Het viel me op dat de screenreader veel elementen niet leest, of het zou alleen aangeven dat het een link is maar niet waartoe het leidt. Verder had de site ook popups bijvoorbeeld om de characters te weergeven, de screenreader kon de content die op de popup was niet lezen maar wel als ik erop klikte. 
   contrast
-   heel veel elementen van de site bestaat alleen maar uit afbeeldingen dus het was niet mogelijk om de contrast te meten, van dit kon simpelweg niet via inspect bekeken worden. Daarna heb ik de contrast analyzer tool van TPGi daaruit blijkt dat een een AA scre heeff
+   heel veel elementen van de site bestaat alleen maar uit afbeeldingen dus het was niet mogelijk om de contrast te meten, van dit kon simpelweg niet via inspect bekeken worden. Daarna heb ik de contrast analyzer tool van TPGi daaruit blijkt dat een een AA score heeft
   <img src="readme-images/bleachContrast.png" width="375px" alt="contrast score van de site">
 
 
